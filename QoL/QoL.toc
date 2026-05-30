@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: QoL - Quality of Life
+## Notes: Any issues report on discord: realvelu
+## Author: Ayzi
+## Version: 3.0
+## SavedVariables: QoL_Settings
+
+QoL.lua
